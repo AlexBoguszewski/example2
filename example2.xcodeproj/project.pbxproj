@@ -102,8 +102,8 @@
 				CA5464BE264331A600A347DF /* AppDelegate.swift */,
 				CA5464C0264331A600A347DF /* SceneDelegate.swift */,
 				CA5464C2264331A600A347DF /* ViewController.swift */,
-				CA5464C4264331A700A347DF /* Main.storyboard */,
 				CA5464C7264331A700A347DF /* Assets.xcassets */,
+				CA5464C4264331A700A347DF /* Main.storyboard */,
 				CA5464C9264331A700A347DF /* LaunchScreen.storyboard */,
 				CA5464CC264331A700A347DF /* Info.plist */,
 			);
