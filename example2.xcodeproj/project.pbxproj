@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA150A0D264B16B500E55296 /* selectRangeOfNumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA150A0C264B16B500E55296 /* selectRangeOfNumbersViewController.swift */; };
+		CA150A0F264B16EA00E55296 /* showRandomNumberViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA150A0E264B16EA00E55296 /* showRandomNumberViewController.swift */; };
 		CA5464BF264331A600A347DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5464BE264331A600A347DF /* AppDelegate.swift */; };
 		CA5464C1264331A600A347DF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5464C0264331A600A347DF /* SceneDelegate.swift */; };
 		CA5464C3264331A600A347DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5464C2264331A600A347DF /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CA150A0C264B16B500E55296 /* selectRangeOfNumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selectRangeOfNumbersViewController.swift; sourceTree = "<group>"; };
+		CA150A0E264B16EA00E55296 /* showRandomNumberViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = showRandomNumberViewController.swift; sourceTree = "<group>"; };
 		CA5464BB264331A600A347DF /* example2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = example2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA5464BE264331A600A347DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA5464C0264331A600A347DF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 				CA5464C2264331A600A347DF /* ViewController.swift */,
 				CA5464C7264331A700A347DF /* Assets.xcassets */,
 				CA5464C4264331A700A347DF /* Main.storyboard */,
+				CA150A0C264B16B500E55296 /* selectRangeOfNumbersViewController.swift */,
+				CA150A0E264B16EA00E55296 /* showRandomNumberViewController.swift */,
 				CA5464C9264331A700A347DF /* LaunchScreen.storyboard */,
 				CA5464CC264331A700A347DF /* Info.plist */,
 			);
@@ -259,8 +265,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA150A0D264B16B500E55296 /* selectRangeOfNumbersViewController.swift in Sources */,
 				CA5464C3264331A600A347DF /* ViewController.swift in Sources */,
 				CA5464BF264331A600A347DF /* AppDelegate.swift in Sources */,
+				CA150A0F264B16EA00E55296 /* showRandomNumberViewController.swift in Sources */,
 				CA5464C1264331A600A347DF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
