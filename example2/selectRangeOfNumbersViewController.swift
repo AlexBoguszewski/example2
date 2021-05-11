@@ -19,7 +19,7 @@ class selectRangeOfNumbersViewController: UIViewController {
         super.viewDidLoad()
         firstNumber.text = (firstNumberEntered)
         secondNumber.text = (secondNumberEntered)
-        let randomInt = Int.random(in: firstNumberEntered..<secondNumberEntered)
+        let randomInt = Int.random(in: Int(firstNumberEntered)!..<Int(secondNumberEntered)!)
     }
     
     
