@@ -14,7 +14,11 @@ class showRandomNumberViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+//        firstNumber.text = (firstNumberEntered)
+//           secondNumber.text = (secondNumberEntered)
+//           print (firstNumberEntered)
+//           print(secondNumberEntered)
+        //   let randomInt = Int.random(in: Int(firstNumberEntered)!..<Int(secondNumberEntered)!)
     }
     
 

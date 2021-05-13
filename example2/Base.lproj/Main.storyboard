@@ -87,6 +87,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="randomly generate"/>
                                 <connections>
+                                    <action selector="whenButtonPressed:" destination="pIL-OO-BnZ" eventType="touchUpInside" id="HqV-C4-u7Y"/>
                                     <segue destination="EDT-60-iBJ" kind="show" id="IpL-JP-xBh"/>
                                 </connections>
                             </button>
